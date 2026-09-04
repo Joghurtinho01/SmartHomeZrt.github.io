@@ -1,0 +1,6 @@
+Alinterfécek jól lére lettek hozva de ip címek rosszek (nem végződhet 0-ra) tehát az nem lehet 192.168.10.0 hamem 192.168.10.1
+DHCP hiányzik mind két VLAN felé
+Vlanok nincsenek létrehozva az al switchekbe
+routerrel összekapcsolt switch kapcsolati portjának trunknak kellene lenni neked az access tipusú
+
+DE JÓ LESZ HIBÁKAT TESSÉK JAVÍTANI
